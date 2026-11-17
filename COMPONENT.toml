@@ -3,7 +3,7 @@ name = "SigmaOS-vulkan-loader"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "vulkan-loader component"
+description = "Vulkan loader: ICD and layer dispatch"
 upstream = []
 
 [contract]
